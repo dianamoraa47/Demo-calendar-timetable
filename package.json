@@ -4,6 +4,7 @@
   "private": true,
   "license": "SEE LICENSE IN license/LicenseAgreement.pdf",
   "dependencies": {
+    "circleci-cli": "0.0.6",
     "daypilot-pro-react": "https://npm.daypilot.org/daypilot-pro-react/trial/2019.3.4012.tar.gz",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
